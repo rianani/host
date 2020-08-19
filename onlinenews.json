@@ -5,10 +5,13 @@
 "fan_banner": "1661740367335522_1661740654002160",
 "fan_inters": "1661740367335522_1661740894002136",
 "fan_native": "1661740367335522_1661741127335446",
-"double_nat": "1",
+"double_nat": "0",
 "bulk_int": "1",
 "bulk_ran_min": "5",
-"bulk_ran_max": "8"
+"bulk_ran_max": "8",
+"nat_updown": "1",
+"nat_up": "1",
+"nat_down": "0",
 }
 ]
 }
