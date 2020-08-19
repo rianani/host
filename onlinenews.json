@@ -10,8 +10,8 @@
 "bulk_ran_min": "5",
 "bulk_ran_max": "8",
 "nat_updown": "1",
-"nat_up": "1",
-"nat_down": "0"
+"nat_up": "0",
+"nat_down": "1"
 }
 ]
 }
