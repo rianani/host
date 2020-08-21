@@ -7,12 +7,12 @@
 "fan_native": "570433240509581_614297269456511",
 "double_nat": "0",
 "bulk_int": "1",
-"bulk_ran_min": "7",
-"bulk_ran_max": "10",
+"bulk_ran_min": "5",
+"bulk_ran_max": "8",
 "nat_updown": "1",
-"nat_up": "0",
+"nat_up": "1",
 "nat_down": "1",
-"nat_counter": "3"
+"nat_counter": "2"
 }
 ]
 }
