@@ -3,12 +3,12 @@
 [
 {
 "fan_banner": "570433240509581_570433643842874",
-"fan_inters": "570433240509581_614297759456462",
+"fan_inters": "570433240509581_619953042224267",
 "fan_native": "570433240509581_614297269456511",
 "double_nat": "0",
 "bulk_int": "1",
-"bulk_ran_min": "5",
-"bulk_ran_max": "8",
+"bulk_ran_min": "8",
+"bulk_ran_max": "12",
 "nat_updown": "0",
 "nat_up": "1",
 "nat_down": "1",
