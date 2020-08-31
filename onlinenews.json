@@ -3,16 +3,16 @@
 [
 {
 "fan_banner": "570433240509581_570433643842874",
-"fan_inters": "570433240509581_622911385261766",
-"fan_native": "570433240509581_614297269456511",
-"double_nat": "1",
-"bulk_int": "1",
-"bulk_ran_min": "9",
-"bulk_ran_max": "15",
+"fan_inters": "",
+"fan_native": "",
+"double_nat": "0",
+"bulk_int": "0",
+"bulk_ran_min": "0",
+"bulk_ran_max": "0",
 "nat_updown": "0",
-"nat_up": "1",
-"nat_down": "1",
-"nat_counter": "1"
+"nat_up": "0",
+"nat_down": "0",
+"nat_counter": "0"
 }
 ]
 }
